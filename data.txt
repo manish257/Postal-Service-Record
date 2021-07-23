@@ -1,0 +1,33 @@
+$Graph
+7
+1 2 100.0 4 150.0 6 290.0 
+2 1 100.0 3 90.0 4 120.0
+3 2 90.0 4 80.0
+4 1 150.0 2 120.0 3 80.0 5 90.0 6 350.0 7 390
+5 4 90.0 7 158.0
+6 1 290.0 4 350.0 7 220.0
+7 2 400.0 4 390.0 5 158.0 6 220
+$Records
+21
+133	Ali Hamza	PEW	P	
+350	Rizwan Ahmed	SKT	P	
+289	Sara Khan	ISB	E	
+733	Haroon Aurangzeb	KHI	E		
+600	Mishal Usman	UET	P	
+562	Bilal Ali	MUX	E	
+450	Taha Umer	LHR	E	
+144	Abubakr Khan	PEW	P	
+760	Affan Hassan	KHI	P	
+645	Zaha Danial 	UET	E		
+569	Danish Farooq	MUX	S	
+409	Zulfiqar Haq	LHR	S	
+110	Nida Tahir	PEW	S	
+315	Haider Iftikhar	SKT	S	
+200	Akbar Hussain	ISB	S
+729	Muzzamil Haider	KHI	S	
+344	Palwasha Abbas	SKT	E	
+643	Sarmad Irshad	UET	S	
+533	Saif Khan	MUX	P
+412	Areeb Rehman	LHR	P	
+238	Farhan Ayub	ISB	P	
+$end
